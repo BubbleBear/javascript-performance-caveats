@@ -11,6 +11,8 @@
  * - destructuring: 9364.433ms
  * 
  * @conclusion
+ * the samples shows that push has a time complexity of O(n),
+ * and concat O(n^2), and destructuring O(n^2) with bigger coefficient
  * 
  * @author
  * 雪霁
